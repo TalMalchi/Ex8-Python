@@ -31,7 +31,7 @@ class TestPoly(TestCase):
         self.assertEqual(p(2), 9)
 
 
-    #give me a test that will fail
+    #give me a test that will failך
     def test_fail(self):
         p1 = Polynomial(1, 2, 3)
         p2 = Polynomial(3, 2, 1)
